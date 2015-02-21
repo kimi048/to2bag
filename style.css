@@ -15,7 +15,7 @@
 	text-align: center;
 }
 .underdashed{
-	border-bottom:dashed 1px #aaa;
+	border-bottom:dotted 3px #aaa;
 }
 .center{
 	margin:0 auto 30px;
@@ -49,7 +49,7 @@ body{
 ul{
 	/*clear: both;*/
 	list-style: none;
-	width: 960px;
+	width: 968px;
 	/*margin:0 auto;*/
 	/*padding-left:100px;*/
 	/*list-style-position: inside;*/
@@ -84,7 +84,7 @@ li{
 	text-align:center;
 	font-size: 17px;
 	font-weight: bold;
-	border-right:dashed 1px #aaa;
+	border-right:dotted 3px #aaa;
 	float:left;
 	/*left:-50%;*/
 	position: relative;
@@ -183,6 +183,7 @@ li:last-child{
 	/*background-color: #aaa;*/
 	text-align: center;
 	height:440px;
+	color:white;
 }
 .right-colom{
 	width: 640px;
@@ -199,6 +200,7 @@ li:last-child{
 	font-size: 40px;
 	font-weight: bold;
 	line-height: 200px;
+	color: white;
 }
 #left3-2{
 	width: 300px;
@@ -209,6 +211,7 @@ li:last-child{
 	font-size: 40px;
 	font-weight: bold;
 	line-height: 100px;
+	color: white;
 	/*position: relative;*/
 }
 #v-bottom{
