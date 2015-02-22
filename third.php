@@ -1,54 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3c/DTD XHTML1.0trasitional//EN" "http://www.w3.org/TR/xhtml/DTD/xhtml-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-type" content="<?php //bloginfo('html_type'); ?>; charset=utf-8" />
-<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css"> 
-<title>To2Bag</title>
-<link rel="stylesheet" type="text/css" href="style.css">
-<script src="//use.typekit.net/zzg4gau.js"></script>
-<script>try{Typekit.load();}catch(e){}</script>
-</head>
-
-<body>
-<!--header-->
-	<div id="first"><!--ここがwidh100%-->
-		<div class="logo" ><a href="#"><img src="logo.png" width="250"></a></div>
-		<!-- <div id="header-inner"> -->
-			<!--max-width:960px-->
-			<div>
-				<ul class="underdashed">
-					<li class="f-left"><a href="#">news</a></li>
-					<li class="f-left"><a href="#">about</a></li>
-					<li class="f-left"><a href="#">blog</a></li>
-					<li class="f-left"><a href="#">media</a></li>
-					<li class="f-left"><a href="#">event</a></li>
-				</ul>
-			</div>
-			<!-- <br> -->
-			<div>
-				<ul class="ullast">
-					<li class="f-left"><a href="#">social business</a></li>
-					<li class="f-left"><a href="#">who made?</a></li>
-					<li class="f-left"><a href="#">gallery</a></li>
-					<li class="f-left"><a href="#">shop</a></li>
-					<li class="f-left"><a href="#">about us</a></li>
-				</ul>
-			</div>
-		<!-- <img src="to2logo.png"> -->
-		<!-- </div> -->
-	</div>
-
-
-	<div id="second" class="f-clear margin-top">
-		<h2>2nd--large photo</h2>
-		<span  class="center">
-			<!-- <img src="http://placehold.it/960x400/" width="960" height="400" alt=""> -->
-			<img src="2.jpg" style="width:100%;">
-		</span>
-	</div>
-
-
-	<div id="third">
+<div id="third">
 		<h2>third start</h2>
 
 		<div class="third-main">
@@ -172,33 +122,3 @@
 			<div class="f-clear">hdaeouwhduewad</div>
 		</div>
 	</div>
-
-
-	<div id="fourth">
-		<h2>3カラムarea</h2>
-		<div id="colom3">
-		<div class="width300"><img src="http://www.placehold.it/300x200/" width="300" height="200"></div>
-		<div class="width300"><img src="http://www.placehold.it/300x200/" width="300" height="200"></div>
-		<div class="width300"><img src="http://www.placehold.it/300x200/" width="300" height="200"></div>	
-		</div>	
-		<!-- <br> -->
-		<div id="colom3">
-		<div class="width300"><img src="http://www.placehold.it/300x200/" width="300" height="200"></div>
-		<div class="width300"><img src="http://www.placehold.it/300x200/" width="300" height="200"></div>
-		<div class="width300"><img src="http://www.placehold.it/300x200/" width="300" height="200"></div>	
-		</div>	
-	</div>
-
-
-	<div id="fifth_sub">
-		sub 
-		<h1>ラーマンさんの登場</h1>
-	</div>
-
-
-</body>
-<footer>
-	 <br> 
-	To2Bag All Right Resered supported by S.A.L.
-</footer>
-</html>
