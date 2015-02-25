@@ -26,7 +26,7 @@
 				<?php wp_reset_postdata(); wp_reset_query(); ?>
 			-->
 				<!-- ここから移植 -->
-			
+	<!--
 				<dl class="list">
 				<?php while (have_posts()):the_post();?>
 				<dt><?php the_time('Y/m/d');?></dt>
@@ -39,7 +39,7 @@
 					</dd>
 				<?php endwhile; ?>
 				</dl>
-			
+   -->
 				<!-- ここまで -->
 	<!--
 				<dl class="list">
