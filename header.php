@@ -4,7 +4,7 @@
 <meta http-equiv="Content-type" content="<?php //bloginfo('html_type'); ?>; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css"> 
 <title>To2Bag</title>
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>/style.css">
 <script src="//use.typekit.net/zzg4gau.js"></script>
 <script>try{Typekit.load();}catch(e){}</script>
 </head>

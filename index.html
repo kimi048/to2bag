@@ -77,9 +77,11 @@
 			-->
 				<!-- ここから移植 -->
 			
+				<!-- 
 				<dl class="list">
+					<?php query_posts("posts_per_page=12"); ?>
 				<?php while (have_posts()):the_post();?>
-				<dt><?php the_time('Y/m/d');?></dt>
+				<dt><?php the_time('Y-m-d');?></dt>
 				<?php
 					$cats = get_the_category();
 					$cats = $cats[0];
@@ -89,9 +91,9 @@
 					</dd>
 				<?php endwhile; ?>
 				</dl>
-			
+			 -->
 				<!-- ここまで -->
-	<!--
+	<!-- 
 				<dl class="list">
    				<dt><span>2008-05-14</span></dt>
    				<dd id="first_dd">
@@ -166,7 +168,7 @@
    				</dd>
 
 				</dl>
-		-->
+		 -->
 		</div>
 		<br>aa
 			<div class="f-clear">hdaeouwhduewad</div>

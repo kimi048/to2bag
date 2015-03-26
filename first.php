@@ -1,5 +1,5 @@
 <div id="first"><!--ここがwidh100%-->
-	<div class="logo" ><a href="#"><img src="logo.png" width="250"></a></div>
+	<div class="logo" ><a href="#"><img src="<?php bloginfo('template_directory'); ?>/logo.png" width="250"></a></div>
 	<!-- <div id="header-inner"> -->
 		<!--max-width:960px-->
 	<div>
